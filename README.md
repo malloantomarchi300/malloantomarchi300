@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a fantasy fan and like LOTR
 
-[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9d0092d9-3fc2-4609-b046-27c99c134117.jpeg?v=1791708583)](https://www.boot.dev/certificates/9d0092d9-3fc2-4609-b046-27c99c134117)
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/069035c8-1969-4e5d-a64c-67c18f1a6dfd.jpeg?v=1792072346)](https://www.boot.dev/certificates/069035c8-1969-4e5d-a64c-67c18f1a6dfd)
